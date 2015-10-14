@@ -1,0 +1,1 @@
+/home/vagrant/Sites/ListnLove/langjugate/app/views/quizzes/edit.blade.php

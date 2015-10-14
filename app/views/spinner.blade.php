@@ -1,0 +1,1 @@
+<div id="ajax_spinner"><img src="{{ asset('images/ajax_spinner.gif') }}"></div>
